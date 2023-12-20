@@ -3,7 +3,7 @@
 
 ## Cahier des charges
 
-A l'aide de **Symfony** vous devez réaliser un site web qui listes des livres d'une bibliotheque nommée BIBLIOSF.
+A l'aide de **Symfony** vous devez réaliser un site web qui listes des livres d'une bibliotheque nommée **BIBLIOS**F.
 
 - Le schema de la base de donnée se trouve dans le dossier **data** ![Base de donnée](./data/books_schema.png)
 
